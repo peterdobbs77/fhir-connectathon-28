@@ -3,5 +3,6 @@ Artifacts relevant for my involvement in the [September 2021 FHIR Connectathon](
 
 ## Useful links
 * [ImagingStudy spec](https://www.hl7.org/fhir/imagingstudy.html)
+* [DICOMweb](https://www.dicomstandard.org/dicomweb)
 * [OHIF integration with DCM4CHEE](https://docs.ohif.org/history/v1/connecting-to-image-archives/dcm4chee-with-docker.html)
 * [Example of docker compose for DCM4CHEE](https://github.com/dcm4che-dockerfiles/dcm4chee-arc-psql/blob/master/docker-compose.yml)
